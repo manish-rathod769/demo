@@ -1,2 +1,0 @@
-This is index.txt file.
-Index.txt file modifided.
